@@ -15,5 +15,3 @@ For Help:
 btblitmag@gmail.com
 $breakthebull
 
-Get Here:
-https://breakthebull.com/downloads/dayz-custom-boost/
