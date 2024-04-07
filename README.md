@@ -10,3 +10,6 @@ CUSTOM BASE
 
 PLUG AND PLAY
 WORKS ON CONSOLE
+
+btblitmag@gmail.com
+$breakthebull
